@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map AsyncStepper
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AsyncStepper                     KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+AsyncStepper                    KEYWORD2
+loop                            KEYWORD2
+setSpeed                        KEYWORD2
+setActive                       KEYWORD2
+setRPM                          KEYWORD2
+setMode                         KEYWORD2
+setMaxStepsLSB			KEYWORD2
+setMaxStepsMSB			KEYWORD2
+setCurrentPosition		KEYWORD2
+
+
+#######################################
+# Constats (LITERAL1)
+#######################################
+STEPPER_MODE_CONT		LITERAL1
+STEPPER_MODE_CONSTRAINED	LITERAL1
+STEPPER_MODE_REVERSE		LITERAL1
+STEPPER_MODE_AUTO_REVERSE	LITERAL1
